@@ -1,0 +1,9 @@
+{
+  "name": "jsmask",
+  "version": "1.0.0",
+  "description": "Redact secrets in objects and strings by key and pattern.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": { "test": "node --test" },
+  "license": "MIT"
+}
